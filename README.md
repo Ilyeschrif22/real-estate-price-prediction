@@ -12,9 +12,6 @@ Go to [colab.research.google.com](https://colab.research.google.com) and open th
 ### 2. Upload the Dataset
 Once the notebook is open, upload `data.csv` into files
 
-<img width="1758" height="803" alt="image" src="https://github.com/user-attachments/assets/3a90da78-d4e1-4dec-9c34-c765aabc1144" />
-
-
 ### 3. Run the Notebook
 Click **Runtime → Run all** to execute all cells in order.
 
